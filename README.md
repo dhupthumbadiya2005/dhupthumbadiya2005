@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhupthumbadiya2005
 - 👀 I’m interested in tech. 
-- 🌱 I’m currently learning Full Stack Devlopment. 
+- 🌱 I’m currently learning Full Stack Devlopment (MERN). 
 
 
 
