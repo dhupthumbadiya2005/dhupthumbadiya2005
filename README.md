@@ -88,19 +88,6 @@ Sub-700ms voice pipeline across 8 STT/TTS/LLM providers, RAG over 30,000+ embedd
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhupthumbadiya2005&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhupthumbadiya2005&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhupthumbadiya2005&theme=default&hide_border=true" />
-</p>
-
----
-
 ### 🎓 Currently
 
 Final-year B.Tech in Information & Communication Technology @ Pandit Deendayal Energy University (CGPA 9.09) — looking for full-time **Software Development Engineer** roles.
